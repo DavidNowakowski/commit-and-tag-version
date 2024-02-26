@@ -13,3 +13,5 @@ New line added to readme 2
 New line added to readme 3
 
 New line added to readme 4
+
+New line added to readme 5 that causes a breaking change
