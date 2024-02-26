@@ -5,3 +5,5 @@ Test [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag
 Not properly formatted commit.
 
 New line added to readme
+
+Not properly formatted commit.
