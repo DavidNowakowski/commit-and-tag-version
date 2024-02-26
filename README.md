@@ -7,3 +7,5 @@ Not properly formatted commit.
 New line added to readme
 
 Not properly formatted commit.
+
+New line added to readme 2
