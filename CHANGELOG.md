@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.0](https://github.com/DavidNowakowski/commit-and-tag-version/compare/v1.1.0...v1.2.0) (2024-02-26)
+
+
+### Features
+
+* **README:** New line added to the readme ([d1596d0](https://github.com/DavidNowakowski/commit-and-tag-version/commit/d1596d0d54bb5e5df9dc63e0d4bbd6f3bbd17dec))
+
 ## 1.1.0 (2024-02-26)
 
 
